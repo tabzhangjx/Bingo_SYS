@@ -1,0 +1,14 @@
+Z:\UNDesktop\Bingo_SYS\bingo_Scheduling\SYS_Scheduling\SYS_Scheduling\bin\Debug\SYS_Scheduling.exe.config
+Z:\UNDesktop\Bingo_SYS\bingo_Scheduling\SYS_Scheduling\SYS_Scheduling\bin\Debug\SYS_Scheduling.exe
+Z:\UNDesktop\Bingo_SYS\bingo_Scheduling\SYS_Scheduling\SYS_Scheduling\bin\Debug\SYS_Scheduling.pdb
+Z:\UNDesktop\Bingo_SYS\bingo_Scheduling\SYS_Scheduling\SYS_Scheduling\obj\Debug\SYS_Scheduling.csprojResolveAssemblyReference.cache
+Z:\UNDesktop\Bingo_SYS\bingo_Scheduling\SYS_Scheduling\SYS_Scheduling\obj\Debug\SYS_Scheduling.Form1.resources
+Z:\UNDesktop\Bingo_SYS\bingo_Scheduling\SYS_Scheduling\SYS_Scheduling\obj\Debug\SYS_Scheduling.Properties.Resources.resources
+Z:\UNDesktop\Bingo_SYS\bingo_Scheduling\SYS_Scheduling\SYS_Scheduling\obj\Debug\SYS_Scheduling.csproj.GenerateResource.Cache
+Z:\UNDesktop\Bingo_SYS\bingo_Scheduling\SYS_Scheduling\SYS_Scheduling\obj\Debug\SYS_Scheduling.csproj.CoreCompileInputs.cache
+Z:\UNDesktop\Bingo_SYS\bingo_Scheduling\SYS_Scheduling\SYS_Scheduling\obj\Debug\SYS_Scheduling.exe
+Z:\UNDesktop\Bingo_SYS\bingo_Scheduling\SYS_Scheduling\SYS_Scheduling\obj\Debug\SYS_Scheduling.pdb
+Z:\UNDesktop\Bingo_SYS\bingo_Scheduling\SYS_Scheduling\SYS_Scheduling\bin\Debug\SYS_Scheduling.exe.manifest
+Z:\UNDesktop\Bingo_SYS\bingo_Scheduling\SYS_Scheduling\SYS_Scheduling\bin\Debug\SYS_Scheduling.application
+Z:\UNDesktop\Bingo_SYS\bingo_Scheduling\SYS_Scheduling\SYS_Scheduling\obj\Debug\SYS_Scheduling.exe.manifest
+Z:\UNDesktop\Bingo_SYS\bingo_Scheduling\SYS_Scheduling\SYS_Scheduling\obj\Debug\SYS_Scheduling.application
